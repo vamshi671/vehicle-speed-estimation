@@ -9,7 +9,7 @@ __pycache__/
 .DS_Store
 
 # Videos & outputs
-*.mp4
+
 
 # YOLO weights
 *.pt
