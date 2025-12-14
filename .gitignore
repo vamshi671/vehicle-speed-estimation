@@ -1,4 +1,15 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
-outputs/*.mp4
+
+# macOS junk
+.DS_Store
+
+# Videos & outputs
+*.mp4
+
+# YOLO weights
+*.pt
